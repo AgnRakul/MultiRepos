@@ -12,7 +12,7 @@
     "tsconfig": "*",
     "turbo": "latest"
   },
-  "name": "MultipleProjectsAndLearnings",
+  "name": "multiple_projects_and_learnings",
   "packageManager": "npm@9.5.0",
   "workspaces": [
     "apps/*",
